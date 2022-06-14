@@ -1,4 +1,4 @@
-<h1 align="center">Welcome To Mr Snails</h1>
+<h1 align="center">Welcome To Mr Snails GitHub</h1>
 <h3 align="center">Low tier developer in scripts/graphic designer. Mostly working in the FiveM Community.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/gXSXZ4BT9JoAAAAd/five-m-interstellar-roleplay.gif")
 
